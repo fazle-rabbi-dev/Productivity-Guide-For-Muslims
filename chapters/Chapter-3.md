@@ -6,13 +6,13 @@
 ⬅️ [Previous: Chapter-2](./Chapter-2.md)  
 🔘 **Chapter-3** *(You are here. This is the last chapter)*  
 
-> [!NOTE] The best routine for Muslims by Thom J Defilet 
-> [🔴 Watch Now](https://youtu.be/uiC3mhmh8AQ)
+> [!NOTE]
+> The best routine for Muslims by Thom J Defilet >> [🔴 Watch Now](https://youtu.be/uiC3mhmh8AQ)
 
 > [!TIP]
 > **🤩 One of the most amazing things in life is having a clear vision:** *Vision is about knowing where you want to go in life. 🌟 It gives you a purpose and keeps you motivated to take small daily steps. With a clear vision, every action feels meaningful and brings you closer to your goals.*
 
-- **Learn more about vision from "Chat-GPT" by using the bellow ai prompts:**
+- **💡 Learn more about vision from "Chat-GPT" by using the bellow ai prompts:**
   > *What does "having a clear vision in life" mean, and what are its benefits? Explain in simple terms, with depth and examples.*
 
 ## ✍️ Plan your day ahead of time 
@@ -31,7 +31,7 @@ Imagine you are watching an islamic lecture on YouTube. Suddenly you receive a n
 To block all of distractions you can follow the bellow methods:
 
 1. Schedule time to check social media only use social media on specified time.
-2. If are an Android user then watch the bellow video to block apps on running in the background so that when you want to see Facebook only those time Facebook can send you notification!! It's really crazy tips no one shared this tips on the internet based on my knowledge.
+2. If you are an Android user then watch the bellow video to block apps on running in the background so that when you want to see Facebook only those time Facebook can send you notification!! It's really crazy tips no one shared this tips on the internet based on my knowledge.
 3. Watch the bellow **video** to setup your phone as distraction free super computer 🔥:
 
 > The app name is **hail** that will help you. Explore it [here](https://github.com/aistra0528/Hail)
@@ -52,8 +52,8 @@ To block all of distractions you can follow the bellow methods:
 *Comming soon* ⏳
 
 ## 🔞 How to turn off ads & adult site in your android phone
-- To turn off ads on your phone open setings and 🔍 Search "private dns" then add the following dns address as custom hostname: *dns.adguard.com*
-- To turn off adult content add the following address: *sp-dns-dot.kahfguard.com* (this will block all of adult content but doesn't block ads)
+- To turn off ads on your phone open setings and 🔍 Search "private dns" then add the following dns address as custom hostname: `dns.adguard.com`
+- To turn off adult content add the following address: `sp-dns-dot.kahfguard.com` (this will block all of adult content but doesn't block ads)
 
 ## 🗓️ How to create a productivity System
 
