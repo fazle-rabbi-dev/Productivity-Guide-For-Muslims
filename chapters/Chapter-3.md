@@ -9,6 +9,12 @@
 > [!NOTE] The best routine for Muslims by Thom J Defilet 
 > [🔴 Watch Now](https://youtu.be/uiC3mhmh8AQ)
 
+> [!TIP]
+> **🤩 One of the most amazing things in life is having a clear vision:** *Vision is about knowing where you want to go in life. 🌟 It gives you a purpose and keeps you motivated to take small daily steps. With a clear vision, every action feels meaningful and brings you closer to your goals.*
+
+- **Learn more about vision from "Chat-GPT" by using the bellow ai prompts:**
+  > *What does "having a clear vision in life" mean, and what are its benefits? Explain in simple terms, with depth and examples.*
+
 ## ✍️ Plan your day ahead of time 
 - Create a todo list what you want to done at tomorrow 
 - This will help you to utilize your time in better way
