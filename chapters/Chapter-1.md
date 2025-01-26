@@ -136,8 +136,8 @@ By adopting these practices, you can develop a sleep routine that fosters physic
 
 By implementing these strategies consistently, waking up for Fajr will become a habit that aligns with both your spiritual and productive goals.  
 
-> [!TIP] 🌙 
-> **Transform Your Life with Tahajjud:** Aim to wake up **30-40 minutes before Fajr** and dedicate some time to **Tahajjud prayer**.  
+> [!TIP] 
+> **🌙 Transform Your Life with Tahajjud:** Aim to wake up **30-40 minutes before Fajr** and dedicate some time to **Tahajjud prayer**.  
 
 **Why Tahajjud is life-changing:**  
 1. **Spiritual Growth:** It strengthens your connection with Allah and brings tranquility to your heart.  

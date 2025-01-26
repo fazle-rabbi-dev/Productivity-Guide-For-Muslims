@@ -1,6 +1,6 @@
 # 📗 The Ultimate Productivity Guide For Muslims
 
-![cover](https://github-production-user-asset-6210df.s3.amazonaws.com/71178740/406716486-f9f61d14-1a43-4878-9efc-b8828ff31125.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250126T082828Z&X-Amz-Expires=300&X-Amz-Signature=13bd073e70beed4c54aa9714f85b10d72805c1ae3a2ff05ba0dac222a889450c&X-Amz-SignedHeaders=host)
+![cover](https://cloud.appwrite.io/v1/storage/buckets/663b53a6002d37159b18/files/679670e1001fcc20cdd3/view?project=663b500700086582c795&project=663b500700086582c795&mode=admin)
 
 > [!NOTE]
 > ✨ This guide will teach you how to lead a better life by combining the wisdom of Islam with the insights of science.
