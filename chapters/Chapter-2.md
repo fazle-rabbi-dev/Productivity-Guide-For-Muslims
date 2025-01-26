@@ -2,6 +2,11 @@
 
 # Chapter 2: (Islamic Tips)
 
+## 📖 Pagination  
+⬅️ [Previous: Chapter-1](./Chapter-1.md)  
+🔘 **Chapter-2** *(You are here)*  
+➡️ [Next: Chapter-3](./Chapter-3.md)
+
 ## 🚩 Special Tips  
 
 1. **Create Rukya Water Every Night 💧**  
@@ -39,4 +44,7 @@
 ---
 By implementing these tips, you can enhance your spiritual growth, productivity, and overall well-being.  
  
-[Next Chapter ➡️]()
+## 📖 Pagination  
+⬅️ [Previous: Chapter-1](./Chapter-1.md)  
+🔘 **Chapter-2** *(You are here)*  
+➡️ [Next: Chapter-3](./Chapter-3.md)

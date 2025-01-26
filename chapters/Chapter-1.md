@@ -1,5 +1,11 @@
 **🗓 Date:** 25 November, 2024 11:43:46 AM
+
 # Chapter 1: (Sleep & Woke up)
+
+## 📖 Pagination  
+🔘 **Chapter-1** *(You are here)*  
+➡️ [Next: Chapter-2](./Chapter-2.md)  
+➡️➡️ [Last: Chapter-3](./Chapter-3.md)
 
 ## 🥱 Sleep
 
@@ -89,9 +95,9 @@ By adopting these practices, you can develop a sleep routine that fosters physic
 
 > [!NOTE] 
 > I continuously update and adjust my routine based on my needs (e.g: sunset, sunrise, season etc). I don't stick to a permanently fixed routine. 
----
 
 ---
+
 ## ☀️ Woke up
 
 ## 🌅 Strategies to Wake Up Early in the Morning for Fajr
@@ -196,5 +202,8 @@ Make it a habit, and you’ll witness the transformative impact it has on your l
 
 10. **Prepare for the Next Chapter 🚀**  
    - Follow these habits to structure your morning & night, and learn how to optimize the rest of your time in the **third chapter.**
-   
-[Next Chapter ➡️]()
+
+## 📖 Pagination  
+🔘 **Chapter-1** *(You are here)*  
+➡️ [Next: Chapter-2](./Chapter-2.md)  
+➡️➡️ [Last: Chapter-3](./Chapter-3.md)

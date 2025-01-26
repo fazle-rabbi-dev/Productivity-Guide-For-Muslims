@@ -2,6 +2,9 @@
 
 # Chapter 3: (Stress Free Productivity System)
 
+## 📖 Pagination  
+⬅️ [Previous: Chapter-2](./Chapter-2.md)  
+🔘 **Chapter-3** *(You are here. This is the last chapter)*  
 
 > [!NOTE] The best routine for Muslims by Thom J Defilet 
 > [🔴 Watch Now](https://youtu.be/uiC3mhmh8AQ)
@@ -71,3 +74,7 @@ To block all of distractions you can follow the bellow methods:
 	3. Readwise
 
 *Detailed Guide Comming soon* ⏳
+
+## 📖 Pagination  
+⬅️ [Previous: Chapter-2](./Chapter-2.md)  
+🔘 **Chapter-3** *(You are here. This is the last chapter)*  
