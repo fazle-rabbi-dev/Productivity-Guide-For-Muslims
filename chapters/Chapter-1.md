@@ -85,10 +85,10 @@ By adopting these practices, you can develop a sleep routine that fosters physic
 > [!NOTE]
 > By consistently following these strategies, you’ll not only improve your sleep quality but also align your rest with both spiritual and physical well-being.  
 
-#### 🗓️ Here is a screenshot of my current Afternoon - Night schedule:
+#### 🗓️ Here is a screenshot of my current Afternoon - Night schedule in Google Calender:
 
-> Jan 23, 2025👇 
-![Night Routine](https://github-production-user-asset-6210df.s3.amazonaws.com/71178740/406012713-6730ca7a-f3ba-47f3-b42a-e5e27d9670a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250123T114146Z&X-Amz-Expires=300&X-Amz-Signature=b27a178a70498a9635ce685d4eded5fd117ea29503c330a1fdf59b19e4f0cc31&X-Amz-SignedHeaders=host)
+> Jan 27, 2025👇 
+![Night Routine](https://cloud.appwrite.io/v1/storage/buckets/663b53a6002d37159b18/files/679670d3002010ba06ad/view?project=663b500700086582c795&project=663b500700086582c795&mode=admin)
 
 > [!NOTE]
 >You will learn more about **To-Do Lists**, **Time Management**, **Routine Creation** etc in **Chapter 3**.
@@ -100,7 +100,7 @@ By adopting these practices, you can develop a sleep routine that fosters physic
 
 ## ☀️ Woke up
 
-## 🌅 Strategies to Wake Up Early in the Morning for Fajr
+### 🌅 Strategies to Wake Up Early in the Morning for Fajr
 
 1. **Sleep Early and Prioritize Quality Sleep**  📌
    - Ensure you go to bed early and get at least 7 hours of quality sleep. A well-rested body and mind make it easier to wake up for Fajr.  
@@ -109,26 +109,26 @@ By adopting these practices, you can develop a sleep routine that fosters physic
    - Use an alarm to ensure you wake up on time. Choose a tone that is effective but not harsh. 
 	   - You can find cool alarm tones on [Zedge](https://www.zedge.net/).
 
-> [!NOTE] 🚨 **Important**  
-> You might have experienced waking up when your alarm rings, only to hit the snooze button without leaving your bed 🛏️!  
+> [!NOTE]
+> **🚨 Important**   You might have experienced waking up when your alarm rings, only to hit the snooze button without leaving your bed 🛏️!  
 > 
 > To fully **wake up**, I follow two effective methods mentioned below 👇:  
 
-1. **📷 QR Alarm:**  
+1. **📷 QR Alarm:** (Method-1)
    I'm using an app called **Alarmy** ([Play Store Link](https://play.google.com/store/apps/details?id=droom.sleepIfUCan)).  
    This app allows you to set an alarm with a unique stop mission, and one interesting mission is **QR Code Scanning**. 😱
 
-2. **How to use it:**  
-   - Create a **QR Code** (you can generate one online), print it, and place it on the wall or outside your room door.  
-   - Set an alarm in Alarmy and select **QR Code Scan** as the mission. Scan your QR Code to link it.  
-   - When your alarm rings, you'll need to leave your bed to stop it by scanning the QR Code. Without the code, you can't turn off or reduce the sound.  
-   - (In special cases, you can use the app’s **Emergency Mode** if scanning isn't possible.)  
+  - **How to use it:**  
+     - Create a **QR Code** (you can generate one online), print it, and place it on the wall or outside your room door.  
+     - Set an alarm in Alarmy and select **QR Code Scan** as the mission. Scan your QR Code to link it.  
+     - When your alarm rings, you'll need to leave your bed to stop it by scanning the QR Code. Without the code, you can't turn off or reduce the sound.  
+     - (In special cases, you can use the app’s **Emergency Mode** if scanning isn't possible.)  
+  
+  - **Why it works:**  
+     - This method forces you to physically get out of bed to stop the alarm.  
+     - Once you're up, resist the temptation to return to bed—begin your **Fajr preparations** instead! 😊
 
-3. **Why it works:**  
-   - This method forces you to physically get out of bed to stop the alarm.  
-   - Once you're up, resist the temptation to return to bed—begin your **Fajr preparations** instead! 😊
-
-2. 🚨  *Keep Your Phone Away from Your Bed 📱*
+2. 🚨 *Keep Your Phone Away from Your Bed 📱* (Method-2)
    - Place your phone or alarm device at a distance, such as on a chair in the middle of the room.  
    - This forces you to physically get out of bed to turn it off.  
      - **Example**: If your phone is on a chair across the room, the alarm will require you to take a short walk to silence it. This simple act helps train your brain 🧠 to associate the alarm with getting out of bed.  
@@ -136,8 +136,8 @@ By adopting these practices, you can develop a sleep routine that fosters physic
 
 By implementing these strategies consistently, waking up for Fajr will become a habit that aligns with both your spiritual and productive goals.  
 
-> [!TIP] 🌙 **Transform Your Life with Tahajjud**  
-> Aim to wake up **30-40 minutes before Fajr** and dedicate some time to **Tahajjud prayer**.  
+> [!TIP] 🌙 
+> **Transform Your Life with Tahajjud:** Aim to wake up **30-40 minutes before Fajr** and dedicate some time to **Tahajjud prayer**.  
 
 **Why Tahajjud is life-changing:**  
 1. **Spiritual Growth:** It strengthens your connection with Allah and brings tranquility to your heart.  
@@ -146,7 +146,7 @@ By implementing these strategies consistently, waking up for Fajr will become a 
 
 Make it a habit, and you’ll witness the transformative impact it has on your life, both spiritually and mentally!
 
-## ✅ Todos After Waking Up  
+### ✅ Todos After Waking Up  
 
 > Follow the activities below to boost your productivity, mood, and spiritual growth.  👇 
 
