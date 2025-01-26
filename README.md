@@ -1,8 +1,15 @@
 # 📗 The Ultimate Productivity Guide For Muslims
 
-This guide will teach you how to lead a better life through the Islam & Science.
+> [!NOTE]
+> ✨ This guide will teach you how to lead a better life by combining the wisdom of Islam with the insights of science.
 
-*If you are a non muslim then still you can get benifits from this guide.*
+
+🕒 Productivity is the art of achieving more by focusing on what truly matters. It is a measure of how effectively you utilize your time to accomplish daily tasks. In essence, productivity is about making the best use of your time and energy to achieve meaningful results.   
+
+🌟 The ultimate productivity hack lies in blending Islamic principles with science-backed strategies, creating a harmonious approach to time management and personal growth.
+
+> [!TIP]
+> *If you are a non muslim then still you can get benifits from this guide.*
 
 - [Chapter 1](./chapters/Chapter-1.md) (Sleep & Woke Up)
 - [Chapter 2](/chapters/Chapter-2.md) (Special Islamic Tips)
